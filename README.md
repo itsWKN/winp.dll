@@ -1,7 +1,7 @@
 # winp.dll
 Winp is a small C# Library for Windows, that has some special funcitons for Windows Processes and Tools
 
-# Functions
+# Functions (WinProcess)
 - SetCritical = Set a process critical
 - IsCritical = Check if a process is critical
 - IsAdministrator = Check if the current process runs as administrator
@@ -10,6 +10,7 @@ Winp is a small C# Library for Windows, that has some special funcitons for Wind
 - Cmd = Execute a cmd command and get the output
 - End = End a process (with force end option)
 
+# Function (WinTool)
 - Disable = Disable a windows tool (Regedit, Taskmgr, UAC)
 - Enable = Enable a windows tool (Regedit, Taskmgr, UAC)
 - IsDisabled = Check if a windows tool (Regedit, Taskmgr, UAC) is disabled
