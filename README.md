@@ -10,7 +10,7 @@ Winp is a small C# Library for Windows, that has some special funcitons for Wind
 - Cmd = Execute a cmd command and get the output
 - End = End a process (with force end option)
 
-# Function (WinTool)
+# Functions (WinTool)
 - Disable = Disable a windows tool (Regedit, Taskmgr, UAC)
 - Enable = Enable a windows tool (Regedit, Taskmgr, UAC)
 - IsDisabled = Check if a windows tool (Regedit, Taskmgr, UAC) is disabled
